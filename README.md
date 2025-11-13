@@ -34,7 +34,6 @@ Built using **Flask**, **Python**, **Bootstrap**, and a trained **ML regression 
 
 ---
 
-## 📦 Project Structure
 # 🏏 Cricket Score Predictor (CSP App)
 
 A machine learning–powered web application that predicts the **final score of a T20 cricket inning** based on the current match situation.  
@@ -71,7 +70,6 @@ Built using **Flask**, **Python**, **Bootstrap**, and a trained **ML regression 
 
 ---
 
-## 📦 Project Structure
 # 🏏 Cricket Score Predictor (CSP App)
 
 A machine learning–powered web application that predicts the **final score of a T20 cricket inning** based on the current match situation.  
@@ -107,21 +105,6 @@ Built using **Flask**, **Python**, **Bootstrap**, and a trained **ML regression 
 | Deployment | Localhost / Any cloud platform |
 
 ---
-
-## 📦 Project Structure
-Cricket-Score-Predictor/
-│── static/
-│ ├── india.png
-│ ├── pakistan.png
-│ ├── ... other team images
-│
-│── templates/
-│ ├── index.html
-│
-│── model.pkl
-│── app.py
-│── README.md
-│── requirements.txt
 
 ## 🎯 How It Works
 
